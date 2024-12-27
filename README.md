@@ -1,6 +1,6 @@
 # Ravan-Gozalov-IPZ-4.01
 
-[Лабораторна 1](https://github.com/Ravan-Gozalov/LAB1)
+[Лабораторна 1](https://github.com/RavanGozalov/LAB1.git)
 
 [Лабораторна 2](https://github.com/RavanGojayev/LAB2)
 
